@@ -21,7 +21,7 @@ In summary, Nia caters specifically to businesses by offering solutions in knowl
 
 ---
 WESITE  : www.nia.co.zw
-ANDROID : <a href="https://download.nia.co.zw"><button>Download</button></a>
+ANDROID : <a href="https://download.nia.co.zw">Download</a>
 ---
 
 
