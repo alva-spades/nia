@@ -3,10 +3,10 @@
 
 ## <b> What is Nia </b>
 </div>
---- 
 
+```
 Nia Cloud an all in one cloud based platform that allows a user to work , study and be more productive.
----
+```
 
 Nia is a platform that offers a comprehensive suite of tools and services to cater to the diverse needs of businesses. It aims to simplify workflows, enhance productivity, and foster collaboration within organizations. Nia understands the importance of breaking down complex problems into manageable tasks and provides systems and solutions tailored to address these challenges effectively.
 
