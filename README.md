@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.ibb.co/1mhS3d1/welcome-to-Home.png](https://i.ibb.co/Wy1hDGC/cloud-data-storage-rack-concept-glass-cube-cloudscape-digital-metaverse-server-global-network-busine.jpg" align="center"/>
+<img src="https://i.ibb.co/Wy1hDGC/cloud-data-storage-rack-concept-glass-cube-cloudscape-digital-metaverse-server-global-network-busine.jpg" align="center"/>
   
 ## <b> What is Nia </b>
 </div>
