@@ -5,6 +5,8 @@
 </div>
 Nia Cloud is an all in one cloud based platform that allows a user to work , study and be more productive.
 
+[![https://img.shields.io/badge/Installation-EF2D5E?style=for-the-badge&logoColor=white&logo=DocuSign]][Link]
+
 
 Nia is a platform that offers a comprehensive suite of tools and services to cater to the diverse needs of businesses. It aims to simplify workflows, enhance productivity, and foster collaboration within organizations. Nia understands the importance of breaking down complex problems into manageable tasks and provides systems and solutions tailored to address these challenges effectively.
 
@@ -18,5 +20,5 @@ Nia also focuses on providing a streamlined and organized user experience. Busin
 
 In summary, Nia caters specifically to businesses by offering solutions in knowledge management, collaboration, data security, and digital organization. By breaking down complex problems into smaller pieces and providing specialized systems and services, Nia empowers businesses to overcome challenges, streamline operations, and achieve their goals more effectively.
 
-[Button Icon]: https://img.shields.io/badge/Installation-EF2D5E?style=for-the-badge&logoColor=white&logo=DocuSign
+[Button Icon]: 
 
